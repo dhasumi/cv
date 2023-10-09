@@ -5,7 +5,7 @@ HASUMI Daichi / 羽角 太地
 
 ## Profile
 
-I am a +8 year experienced industrial researcher and software engineer in CS, Computer Networks, Machine Learning (ML), and Cybersecurity. I'm working for NEC Corporation as Security Researcher/Engineer to develop a new security solution using ML techniques. I also manage collaborative research with a national research institute, and universities to develop new information security technologies. I'm now working at TOYOTA Motor Corp. as a product security engineer Engaging in design and development on security for the digital cockpit softwares (a navigation system and a meter display at connected cars).
+I am a +8 year experienced industrial researcher and software engineer in CS, Computer Networks, Machine Learning (ML), and Cybersecurity. I'm working for NEC Corporation as Security Researcher/Engineer to develop a new security solution using ML techniques. I also manage collaborative research with a national research institute, and universities to develop new information security technologies. I'm now working at TOYOTA Motor Corp. as a product security engineer engaging in design and development on security for the digital cockpit softwares (a navigation system and a meter display at connected cars).
 
 I have substantial experience analyzing data to detect outliers, building an ML model, designing secure system architecture using a lot of threat-intelligence, and incident patterns. I have focused on usable security for end-users when I design an algorithm and system architectures.
 
